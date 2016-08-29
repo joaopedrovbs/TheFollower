@@ -14,12 +14,12 @@ After competing several years on robotics competitions like [Robocup Junior Resc
 
 Check our [Instructables](http://www.instructables.com/) for the detailed step-by-step instructions of how to assemble one of this robots.
 
-- The files on the DXF's folder are all the parts that you need to have lasercutted to start the building.
+- The files on the DXF's folder are all the parts that you need to have lasercutted on 3mm wood (Plywood or MDF) to start the building.
 
 - There's also a passive "wheel" that is 3D Printed, at the STL's folder.
 
 
-#### You have to lasercut:
+#### You have to lasercut on `3mm wood`:
 
 | Item |  Quantity |
 |------|-----------|
