@@ -1,7 +1,7 @@
 # TheFollower
 A simple, cheap and easy to use line following robot for educational use.
 
-![3D Render](TheFollower/Images/Render1.png)
+![3D Render](https://github.com/joaopedrovbs/TheFollower/blob/master/Images/Render1.png?raw=true)
 
 ## Little Background
 Line following robots are always a good alternative for learning about the motion, sensing and programming of small mobile robots.
