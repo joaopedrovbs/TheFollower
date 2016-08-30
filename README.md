@@ -7,8 +7,8 @@ A simple, cheap and easy to use line following robot for educational use.
 Line following robots are always a good alternative for learning about the motion, sensing and programming of small mobile robots.
 After competing several years on robotics competitions like [Robocup Junior Rescue Line](http://rcj.robocup.org/rescue.html), I decided to build a small and simple robot for everybody to learn and play with this kind of bot. The opportunity came when I partnered up with two friends and their companies to build small line-follower robots for a workshop at the 2016 Arduino Day Event that we hosted.
 
-- [Engenhoteca](www.engenhoteca.com.br), helped me with lasercutting the wood material.
-- [Robocore](www.robocore.net), gave all the hardware needed for 20 robots.
+- [Engenhoteca](http://www.engenhoteca.com.br), helped me with lasercutting the wood material.
+- [Robocore](http://www.robocore.net), gave all the hardware needed for 20 robots.
 
 
 ## How-to-Build:
